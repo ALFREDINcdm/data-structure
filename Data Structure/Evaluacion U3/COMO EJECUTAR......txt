@@ -1,0 +1,3 @@
+El programa se ejecuta desde la shell con la siguiente nomenclatura
+
+java Test< ritmo.txt
